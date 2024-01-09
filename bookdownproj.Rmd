@@ -1,19 +1,19 @@
 --- 
 title: "R Programming for Statistical Analysis"
-author: "Hammed Akande, Jeff Sauer, Abimbola Ogungbire, Tomiyosi Bola"
+author: "Hammed A. Akande"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
 # Welcome
 
+You're Welcome to this R Programming for Statistical Analysis. This textbook will focus (primarily) on demonstrating how to use “SPSS” for statistical analysis. Over the years, I have taught coding (mainly using R) and statistical analysis and I will use this website as a repo for all my course materials and scripts.
 
-Thanks for your interest in R Programming for statistical analysis. This is a three-day workshop from June 28 to June 30 (4 PM GMT, 11 AM EDT, 8 AM PDT on all days). This workshop aims to expose early-career scientists to coding and basic statistical analysis in R while fostering collaborations and knowledge sharing among participants. Specifically, we hope this workshop will enable young scholars to build expertise in R and make them competitive in global scholarships. 
+I’m passionate about open science and reproducibility- so my goal is to make this website readily available for anyone and methods covered reproducible as much as possible. As such, all the links to download any open data will be embedded in the website (so you can just click it and download as needed). With this, I hope to expose early-career scientists to coding and basic statistical analysis in R while fostering collaborations and knowledge sharing among participants. Specifically, I hope this textbook will enable young scholars to build expertise in R and make them competitive in global scholarships.
 
+This book is intended to serve as a guide to learning R. Good thing is that the book is (and will always be) FREE. So, you can always consult this book later on for reference. Please feel free to contribute to this open source project if you would want to add or correct anything. You can submit a pull request on Github or send a the corrections (for example, in R Markdown) and I'll update it.
 
-This book is intended to serve as a guide to learning R. Good thing is that the book is (and will be) FREE. So, whether you are attending the workshop live or not, you can always consult this book later on for reference. Please feel free to contribute to this open source project if you would want to add or correct the book. You can submit a pull request on Github or send a the corrections (for example, in R Markdown) and we update the book. 
-
-As this is only for 3days and limited with time, this workshop will only introduce you to basic coding and statistics and by no means exhaustive. For a more detailed analysis, please refer to online resources or contact any of the workshop facilitators to discuss better. 
+This is a work in progress and will only introduce you to basic coding and statistics- so it's by no means exhaustive (I hope to cover advanced -Statistical Machine Learning- in future). For a more detailed analysis, please refer to online resources or contact me to discuss better.
 
 <!--chapter:end:index.Rmd-->
 
